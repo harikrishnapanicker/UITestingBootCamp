@@ -9,12 +9,12 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>UITestingBootCampTests.xcscheme_^#shared#^_</key>
+		<key>UITestingBootCampTests.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>UITestingBootCampUITests.xcscheme_^#shared#^_</key>
+		<key>UITestingBootCampUITests.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>
