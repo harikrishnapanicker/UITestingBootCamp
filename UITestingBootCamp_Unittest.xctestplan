@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "C05301CC-09B0-434F-82BC-AFD92D86CA6C",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:UITestingBootCamp.xcodeproj",
+        "identifier" : "B0B0B22C2E599BE3000BE87C",
+        "name" : "UITestingBootCampTests"
+      }
+    }
+  ],
+  "version" : 1
+}

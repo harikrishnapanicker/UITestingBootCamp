@@ -24,6 +24,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B03EC8B92E5AFF6100873F4B /* UITestingBootCamp_Unittest.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = UITestingBootCamp_Unittest.xctestplan; sourceTree = "<group>"; };
+		B03EC8BA2E5B002400873F4B /* UITestingBootCamp_UITest.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = UITestingBootCamp_UITest.xctestplan; sourceTree = "<group>"; };
 		B0B0B21C2E599BE3000BE87C /* UITestingBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITestingBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0B0B22D2E599BE3000BE87C /* UITestingBootCampTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UITestingBootCampTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0B0B2372E599BE3000BE87C /* UITestingBootCampUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UITestingBootCampUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +77,8 @@
 		B0B0B2132E599BE3000BE87C = {
 			isa = PBXGroup;
 			children = (
+				B03EC8B92E5AFF6100873F4B /* UITestingBootCamp_Unittest.xctestplan */,
+				B03EC8BA2E5B002400873F4B /* UITestingBootCamp_UITest.xctestplan */,
 				B0B0B21E2E599BE3000BE87C /* UITestingBootCamp */,
 				B0B0B2302E599BE3000BE87C /* UITestingBootCampTests */,
 				B0B0B23A2E599BE3000BE87C /* UITestingBootCampUITests */,
