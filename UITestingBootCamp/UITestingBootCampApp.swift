@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct UITestingBootCampApp: App {
+    var alertManager = AlertManager()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
+                .environment(alertManager)
         }
     }
 }
